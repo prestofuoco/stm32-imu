@@ -5,4 +5,6 @@ This design uses the I²C protocol to connect peripheral modules (MPU-6050). I h
 Also includes a 5V-3.3V DC regulator, to carry power from the USB connector to the microcontroller, but lacks ESD protection. 
 <p align="center">
   <img width="80%" src="PCB1.png">
+  <img width="80%" src="PCB2.png">
+  <img width="80%" src="PCB3.png">
 </p>
